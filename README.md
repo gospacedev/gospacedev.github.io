@@ -1,3 +1,3 @@
-Email: gocrazygh@gmail.com
+<img src="https://github.com/gocrazygh/gocrazygh/blob/main/warmcoffee.gif" width="300" height="300" />
 
-<img src="https://github.com/gocrazygh/gocrazygh/blob/main/warmcoffee.gif" width="400" height="400" />
+Email: gocrazygh@gmail.com
