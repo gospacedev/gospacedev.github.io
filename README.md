@@ -1,1 +1,1 @@
-<img src="https://github.com/gocrazygh/gocrazygh/blob/main/warmcoffee.gif" width="400"/>
+<img src="https://github.com/gocrazygh/gocrazygh/blob/main/warmcoffee.gif" width="200"/>
