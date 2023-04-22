@@ -4,6 +4,3 @@
 
 ## About Me
 Hi! I'm a software developer and I love coding.
-
-Programming Languages: Go and Python
-
