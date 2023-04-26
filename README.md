@@ -1,3 +1,5 @@
+<img style="float: right;" src="https://raw.githubusercontent.com/gospacedev/gospacedev/main/pixel-jeff-cafe.gif" height="400"/>
+
 # Hi 👋, I'm Grantley
 
 <img style="float: right;" src="https://raw.githubusercontent.com/gocrazygh/gocrazygh/main/warmcoffee.gif" width="194"/>
