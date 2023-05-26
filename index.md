@@ -1,6 +1,6 @@
 # Hi, I'm Grantley Cullar
 
-<img style="float: right;" src="https://raw.githubusercontent.com/gospacedev/gospacedev/main/warmcoffee.gif" height="194"/>
+<img src="https://raw.githubusercontent.com/gospacedev/gospacedev/main/warmcoffee.gif" height="194"/>
 
 ## Whoami
 
