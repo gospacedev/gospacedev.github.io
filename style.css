@@ -4,7 +4,7 @@ hr {
     border-width: 1px;
 }
 
-body{
+body {
     font-weight: lighter;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     font-size: 16px;
@@ -40,5 +40,5 @@ li {
 }
 
 a {
-    color:#f92672;
+    color: #f92672;
 }
