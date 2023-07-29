@@ -1,0 +1,34 @@
+.social-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-links li {
+    margin: 0 0px;
+}
+
+.social-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 2px;
+}
+
+.social-links img {
+    width: 20px;
+    height: 20px;
+}
+
+.social-links img:hover {
+    opacity: 0.5;
+}
+
+.social-links button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

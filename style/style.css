@@ -1,0 +1,47 @@
+:root {
+    color-scheme: dark;
+}
+
+hr {
+    color: white;
+    border-style: dashed;
+    border-width: 1px;
+}
+
+body {
+    color-scheme: dark;
+    font-weight: lighter;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: rgb(30, 31, 28);
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 7%;
+}
+
+div.page {
+    background-color: rgb(39, 40, 34);
+    padding: 5%;
+    padding-top: 2%;
+}
+
+h1 {
+    color: #a6e22e;
+}
+
+h2 {
+    color: #66d9ef;
+}
+
+p {
+    color: white;
+    margin-bottom: 1em;
+}
+
+div.meme-list img {
+    width: 400px;
+    height: 400px;
+    padding: 1%;
+}

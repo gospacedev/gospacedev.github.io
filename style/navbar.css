@@ -1,0 +1,23 @@
+div.navbar nav {
+    list-style-type: none;
+    margin-left: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    padding: 0;
+    overflow: hidden;
+}
+
+div.navbar a {
+    text-decoration: underline;
+    font-size: larger;
+    padding: 1%;
+    display: inline-block;
+    color: #f92672;
+    text-align: left;
+
+}
+
+div.navbar a:hover {
+    opacity: 0.5;
+}
