@@ -11,7 +11,7 @@ hr.break {
 }
 
 hr.sub-break {
-    color: #5cc1d5;
+    color: #a6e22e;
     border-style: dashed;
     border-width: 1px;
     margin-top: 1%;
@@ -51,6 +51,7 @@ h2 {
 }
 
 p {
+    text-align: justify;
     color: #f8f8f2;
     margin-bottom: 1em;
     margin-top: 3%;
