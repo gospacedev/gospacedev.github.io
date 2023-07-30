@@ -10,14 +10,6 @@ hr.break {
     margin-bottom: 2%;
 }
 
-hr.sub-break {
-    color: #a6e22e;
-    border-style: dashed;
-    border-width: 1px;
-    margin-top: 1%;
-    margin-bottom: 2%;
-}
-
 h1 {
     color: #a6e22e;
     font: bold;
