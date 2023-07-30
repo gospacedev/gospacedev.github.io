@@ -9,11 +9,11 @@ div.navbar nav {
 }
 
 div.navbar a {
-    text-decoration: underline;
+    text-decoration: none;
     font-size: larger;
     padding: 1%;
     display: inline-block;
-    color: #f92672;
+    color: #a6e22e;
     text-align: left;
 
 }

@@ -2,8 +2,14 @@
     color-scheme: dark;
 }
 
-hr {
-    color: #f8f8f2;
+hr.break {
+    color: #a6e22e;
+    border-style: solid;
+    border-width: 2px;
+}
+
+hr.sub-break {
+    color: #5cc1d5;
     border-style: dashed;
     border-width: 1px;
 }
@@ -35,7 +41,7 @@ div.page {
 
 
 h2 {
-    color: #61cce1;
+    color: #5cc1d5;
 }
 
 p {
@@ -46,5 +52,8 @@ p {
 div.meme-list img {
     width: 400px;
     height: 400px;
-    padding: 1%;
+    padding-top: 4%;
+    padding-bottom: 0%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
