@@ -43,12 +43,3 @@ p {
     text-align: justify;
     color: #eaeaea;
 }
-
-div.meme-list img {
-    width: 400px;
-    height: 400px;
-    margin-top: 4%;
-    margin-bottom: 0%;
-    margin-left: 2%;
-    margin-right: 2%;
-}
