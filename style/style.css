@@ -10,6 +10,10 @@ hr.break {
     margin-bottom: 2%;
 }
 
+.web-link {
+    color: #e6db74 !important;
+}
+
 h1 {
     color: #a6e22e;
 }
