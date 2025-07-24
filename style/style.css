@@ -18,6 +18,10 @@ h1 {
     color: #a6e22e;
 }
 
+ul {
+    list-style-type: none;
+}
+
 body {
     color-scheme: dark;
     font-weight: lighter;
@@ -28,17 +32,16 @@ body {
     margin-top: 0%;
     margin-left: 15%;
     margin-right: 15%;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
 }
 
 div.page {
     background-color: rgb(39, 40, 34);
     padding: 5%;
+    padding-bottom: 2%;
     padding-top: 2%;
     border-radius: 20px;
 }
-
-
 
 h2 {
     color: #5cc1d5;
@@ -47,4 +50,33 @@ h2 {
 p {
     text-align: justify;
     color: #eaeaea;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.text-section {
+    flex: 1;
+    line-height: 1;
+}
+
+.text-section span {
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.image-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.image-section img {
+    max-width: 200px;
+    height: auto;
 }
