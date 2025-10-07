@@ -6,8 +6,8 @@ hr.break {
     color: #a6e22e;
     border-style: dashed;
     border-width: 1px;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .web-link {
@@ -33,11 +33,13 @@ body {
     margin-left: 15%;
     margin-right: 15%;
     margin-bottom: 1%;
+    padding-bottom: 1%;
 }
 
 div.page {
     background-color: rgb(39, 40, 34);
-    padding: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
     padding-bottom: 2%;
     padding-top: 2%;
     border-radius: 20px;
@@ -76,7 +78,25 @@ p {
     gap: 20px;
 }
 
+
+.content-wrapper {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
 .image-section img {
-    max-width: 200px;
+    width: 200px;
     height: auto;
+}
+
+@media (max-width: 768px) {
+    .content-wrapper {
+        flex-direction: column;
+    }
+
+    .image-section {
+        width: 100%;
+        min-width: auto;
+    }
 }
